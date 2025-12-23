@@ -1,7 +1,7 @@
 # 💫 About Me:
-Hi, I’m Anusha! 👋<br>Software Developer | New Jersey<br><br>I’m a Software Developer based in New Jersey, currently specializing in Agentic AI, RAG pipelines, and LLM-driven automation. My work focuses on building software that actually makes an impact.<br><br>
+Hi, I’m Anusha! 👋<br>Software Developer | New Jersey<br><br>I’m a Software Developer based in New Jersey, currently specializing in Agentic AI, RAG pipelines, and LLM-driven automation. My work focuses on building software that actually makes an impact.
 ### Currently working on: 
-UN Policy Impact Analysis Platform (RAG)<br>- An AI-driven system to analyze complex UN documents for international nonprofits<br>- Tech stack: Vector DBs, Semantic Search, Agentic Reasoning, Cloud Infrastructure<br><br>
+UN Policy Impact Analysis Platform (RAG)<br>- An AI-driven system to analyze complex UN documents for international nonprofits<br>- Tech stack: Vector DBs, Semantic Search, Agentic Reasoning, Cloud Infrastructure
 ### Featured work:
 Agentic AI Code Architect (Research @ Stratolaunch)<br>- Developing an autonomous system that plans and executes codebase changes.<br>- Tech stack: Google Gemini, GitHub API, Repository-level context mapping<br><br>Smart Email Reply Agent (Chrome Extension)<br>- A full-stack automation tool that generates context-aware professional email responses.<br>- Tech stack: Spring Boot, React, AWS EC2, Google Gemini API.<br>- Successfully bridged a Java backend with a Chrome frontend to automate routine communication in real-time
 
