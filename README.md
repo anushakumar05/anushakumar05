@@ -1,5 +1,36 @@
-# About Me:
-<br>Software Developer | New Jersey<br><br>Currently specializing in Agentic AI, RAG pipelines, and LLM-driven automation. My work focuses on building software that actually makes an impact.
+# Hi, I'm Anusha!
+### Aspiring Software Engineer | Purdue CS
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+I'm a Computer Science student building intelligent software systems with a focus on **Agentic AI, Retrieval-Augmented Generation (RAG), and LLM-powered applications**.
+
+I enjoy designing scalable backend systems, building AI workflows, and turning ideas into production-ready applications. My recent work includes AI agents, semantic search systems, cloud-native architectures, and data engineering pipelines.
+
+## Featured Projects
+
+🔹 **Inkwell — AI-Powered Journaling App with Semantic Memory**  
+Full-stack RAG application using React, FastAPI, MongoDB, Qdrant, Docker, Terraform, and LLM evaluation.
+
+🔹 **Smart Email Reply Generator**  
+AI-powered Chrome extension with Spring Boot backend and Gemini integration.
+
+🔹 **Agentic AI Systems**  
+Building autonomous workflows that combine LLMs, APIs, and automation.
+
+## Tech Stack
+
+**Languages**
+- Python, Java, C, JavaScript, SQL
+
+**AI / ML**
+- OpenAI, Anthropic, Google Gemini
+- LangChain, RAG Pipelines, Vector Databases
+- Qdrant, LLM Evaluation
+
+**Backend & Cloud**
+- FastAPI, Spring Boot, React
+- AWS (EC2, S3, IAM, RDS, CloudFront)
+- Docker, Terraform, GitHub Actions
+
+**Data Engineering**
+- Apache Spark, PySpark, Databricks
+- Unity Catalog, SQL, MongoDB
