@@ -7,6 +7,9 @@ I enjoy designing scalable backend systems, building AI workflows, and turning i
 
 ## Featured Projects
 
+🔹 **LLM API Gateway — Reverse Proxy for LLM Traffic**  
+Per-team rate limiting with atomic Redis Lua, budget enforcement, multi-provider failover with circuit breaking, and a two-tier semantic cache — 8.9ms P95 overhead across 5,000 requests, zero loss during a simulated provider outage.
+
 🔹 **Inkwell — AI-Powered Journaling App with Semantic Memory**  
 Full-stack RAG application using React, FastAPI, MongoDB, Qdrant, Docker, Terraform, and LLM evaluation.
 
@@ -30,6 +33,10 @@ Building autonomous workflows that combine LLMs, APIs, and automation.
 - FastAPI, Spring Boot, React
 - AWS (EC2, S3, IAM, RDS, CloudFront)
 - Docker, Terraform, GitHub Actions
+
+**Systems & Infrastructure**
+- Redis (Lua scripting, vector search), Prometheus, Grafana
+- Rate limiting, circuit breaking, load testing, observability
 
 **Data Engineering**
 - Apache Spark, PySpark, Databricks
